@@ -16,8 +16,6 @@ This project is a simple and responsive coffee shop website built with HTML, CSS
 
 ## Screenshots
 
-You can add screenshots or a gif here:
-![Preview](images/preview.gif)
 
 ## How to Use
 
