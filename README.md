@@ -24,3 +24,6 @@ You can add screenshots or a gif here:
 1. Clone the repository:
 ```bash
 git clone https://github.com/HasanKoparan/Coffe_Shop.git
+## Demo
+
+![Preview](images/preview.gif)
