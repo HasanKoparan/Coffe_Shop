@@ -1,28 +1,44 @@
-# Coffee Shop
+# Coffee Shop ☕
 
-This project is a simple and responsive coffee shop website built with HTML, CSS, and JavaScript. It was created as part of a front-end development course.
+A simple and responsive coffee shop website built with **HTML5**, **CSS3**, and **JavaScript**. Created as part of a front-end development course.
 
-## Features
+## ✨ Features
 
 - Responsive homepage design
 - Visual menu section
 - Organized file structure (HTML, CSS, JS, images)
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (vanilla)
 
-## Screenshots
+## 📁 Project Structure
 
+```
+Coffe_Shop/
+├── images/
+├── index.html
+├── main.js
+└── style.css
+```
 
-## How to Use
+## ⚙️ How to Use
 
-1. Clone the repository:
 ```bash
-git clone https://github.com/HasanKoparan/Coffe_Shop.git
+# Clone the repository
+git clone https://github.com/HassanKoparan/Coffe_Shop.git
+```
 
-## Demo
+Then open `index.html` in your browser.
+
+## 🎬 Demo
 
 ![Preview](images/preview.gif)
+
+## 👤 Author
+
+**Hasan Koparan**  
+Full-stack development bootcamp student based in Copenhagen, Denmark.  
+
