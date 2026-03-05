@@ -28,7 +28,7 @@ Coffe_Shop/
 
 ```bash
 # Clone the repository
-git clone https://github.com/HassanKoparan/Coffe_Shop.git
+git clone https://github.com/HasanKoparan/Coffe_Shop.git
 ```
 
 Then open `index.html` in your browser.
