@@ -34,11 +34,13 @@ git clone https://github.com/HassanKoparan/Coffe_Shop.git
 Then open `index.html` in your browser.
 
 ## 🎬 Demo
+![Uploading Ekran Resmi 2026-03-05 04.00.09.png…]()
 
-![Preview](images/preview.gif)
+
 
 ## 👤 Author
 
 **Hasan Koparan**  
 Full-stack development bootcamp student based in Copenhagen, Denmark.  
+
 
