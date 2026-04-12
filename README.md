@@ -13,6 +13,7 @@ A clean and responsive coffee shop website built with vanilla HTML, CSS, and Jav
 - 🎨 Modern UI with custom styling
 - 📱 Mobile-friendly layout
 - 🗂️ Clean and organized file structure
+<img width="1773" height="976" alt="Ekran Resmi 2026-04-12 13 17 45" src="https://github.com/user-attachments/assets/72043e89-9781-425e-830b-2aa21b295922" />
 
 -----
 
