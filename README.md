@@ -1,46 +1,61 @@
-# Coffee Shop ☕
+# ☕ Coffee Shop
 
-A simple and responsive coffee shop website built with **HTML5**, **CSS3**, and **JavaScript**. Created as part of a front-end development course.
+A clean and responsive coffee shop website built with vanilla HTML, CSS, and JavaScript. Designed to showcase a modern café experience with a visual menu and smooth layout.
+
+🔗 **[Live Demo](https://hasankoparan.github.io/Coffe_Shop)**
+
+-----
 
 ## ✨ Features
 
-- Responsive homepage design
-- Visual menu section
-- Organized file structure (HTML, CSS, JS, images)
+- 🏠 Responsive homepage design
+- 🍽️ Visual menu section with images
+- 🎨 Modern UI with custom styling
+- 📱 Mobile-friendly layout
+- 🗂️ Clean and organized file structure
 
-## 🛠️ Technologies Used
+-----
 
-- HTML5
-- CSS3
-- JavaScript (vanilla)
+## 🛠️ Built With
+
+- **HTML5** — Semantic page structure
+- **CSS3** — Custom styling and responsive layout
+- **JavaScript (Vanilla)** — Basic interactivity
+- **Images** — Local assets for menu and visuals
+
+-----
 
 ## 📁 Project Structure
 
 ```
 Coffe_Shop/
-├── images/
-├── index.html
-├── main.js
-└── style.css
+├── images/         # Visual assets
+├── index.html      # Main page structure
+├── main.js         # JavaScript interactions
+└── style.css       # All styling
 ```
 
-## ⚙️ How to Use
+-----
+
+## 🚀 Getting Started
+
+No installation needed.
 
 ```bash
-# Clone the repository
 git clone https://github.com/HasanKoparan/Coffe_Shop.git
 ```
 
-Then open `index.html` in your browser.
+Then open `index.html` in your browser — or use Live Server in VS Code.
 
-## 🎬 Demo
-![Uploading Ekran Resmi 2026-03-05 04.00.09.png…]()
+-----
 
+## 👨‍💻 Author
 
+**Hasan Koparan**
 
-## 👤 Author
+- GitHub: [@HasanKoparan](https://github.com/HasanKoparan)
+- LinkedIn: [linkedin.com/in/hasankoparan](https://linkedin.com/in/hasankoparan)
 
-**Hasan Koparan**  
-Full-stack development bootcamp student based in Copenhagen, Denmark.  
+-----
 
-
+> Built as part of a front-end development program. First steps into real-world web design. 🚀
