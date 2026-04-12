@@ -3,7 +3,7 @@
 A clean and responsive coffee shop website built with vanilla HTML, CSS, and JavaScript. Designed to showcase a modern café experience with a visual menu and smooth layout.
 
 🔗 **[Live Demo](https://hasankoparan.github.io/Coffe_Shop)**
-
+https://hasankoparan.github.io/Coffe_Shop/
 -----
 
 ## ✨ Features
